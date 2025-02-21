@@ -47,7 +47,7 @@ or
 After running the setup script "create_environment.sh", the following directory structure is created:
 
 ```
-submission_reminder_[username]/
+submission_reminder_[yourname e.g Kethia]/
 ├── app/
 │   └── reminder.sh
 ├── modules/
@@ -56,7 +56,7 @@ submission_reminder_[username]/
 │   └── submissions.txt
 ├── config/
 │   └── config.env
-└── startup.sh            # The script to startup the application
+└── startup.sh            # The script to start the application
 ```
 
 Then, run the startup.sh to start the application
